@@ -1,2 +1,2 @@
-G:\final\EInvoicing\publish/EInvoicingSigner.exe  G:\final\EInvoicing 18712477 "Egypt Trust Sealing CA"
+D:\EInvoicing\publish/EInvoicingSigner.exe  D:\EInvoicing 56199100 "Egypt Trust CA G6" "SignatureP11.dll"
 PAUSE
